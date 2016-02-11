@@ -1,10 +1,9 @@
-div{
-  background-color: blue;
+body{
+  background-color: black;
 }
-li{
-font-family: jokerman;
-font-size: 350px;
-text-align: center;
-color: white;
-
+h1 {
+  font-family: 'Marcellus SC'sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 250px;
 }
