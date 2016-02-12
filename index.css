@@ -14,7 +14,7 @@ h1 {
   margin-bottom: 0px;
 }
 .myButton {
-  display: none;
+  display: inline-block;
   left: 50%;
 	background-color:#7d6c5b;
 	-moz-border-radius:5px;
@@ -41,7 +41,6 @@ transition: all 1s ease-in-out;*//
 
 	top:1px;
 }
-
 .wrap{
   text-align: center;
 
