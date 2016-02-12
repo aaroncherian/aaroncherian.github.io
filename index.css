@@ -1,9 +1,62 @@
+@import url(https://fonts.googleapis.com/css?family=Marcellus+SC);
 body{
   background-color: black;
+   background-image: url(img/City_Landscape_Background.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
 }
 h1 {
-  font-family: 'Marcellus SC' cursive;
+  font-family: 'Marcellus SC', sans-serif;
   color: white;
   text-align: center;
   font-size: 150px;
+  margin-bottom: 0px;
 }
+.myButton {
+  display: inline-block;
+  Left: 50%;
+	background-color:#7d6c5b;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	cursor:pointer;
+	color:black;
+	font-family:'Marcellus SC';
+	font-size:25px;
+	padding:14px 27px;
+  margin-bottom: 10px;
+	text-decoration:none;
+  text-align: center;
+  -webkit-transition: all 1s ease-in-out;
+-moz-transition: all 1s ease-in-out;
+-ms-transition: all 1s ease-in-out;
+-o-transition: all 1s ease-in-out;
+transition: all 1s ease-in-out;
+}
+.myButton:hover {
+	background-color:white;
+}
+.myButton:active {
+
+	top:1px;
+}
+.wrap{
+  text-align: center;
+
+}
+
+//*
+#about {
+  	position:relative;
+  margin: 0 auto;*//
+
+}
+
+//*#story {
+  position: relative;
+  margin: 0 auto;
+}
+#soundtrack {
+  position: relative;
+  margin: 0 auto;
+}*//
