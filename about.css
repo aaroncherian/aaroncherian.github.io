@@ -1,0 +1,10 @@
+body{
+  background-color: black;
+}
+h1{
+  font-family: 'Marcellus SC', sans-serif;
+  color:white;
+  text-align: center;
+  font-size: 75px;
+  margin-bot: 500px;
+}
