@@ -4,6 +4,7 @@ body{
    background-image: url(img/City_Landscape_Background.jpg);
 background-repeat: no-repeat;
 background-size: 100%;
+background-position: center;
 }
 h1 {
   display: none;
