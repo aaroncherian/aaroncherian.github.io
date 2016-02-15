@@ -1,10 +1,18 @@
 body{
   background-color: black;
 }
+
 h1{
   font-family: 'Marcellus SC', sans-serif;
-  color:white;
+  color:#7d6c5b;
   text-align: center;
   font-size: 75px;
   margin-bot: 500px;
+}
+
+.textbox{
+  background-color:gray;
+  width: 75%;
+  height: 100%;
+  margin-left: 12.5%
 }

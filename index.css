@@ -1,10 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Marcellus+SC);
 body{
   background-color: black;
-   //*background-image: url(img/City_Landscape_Background.jpg);*//
+   background-image: url(img/heroicbackground.jpg);
 background-repeat: no-repeat;
 background-size: 100%;
-background-position: center;
+background-position: down;
 }
 h1 {
   display: none;
