@@ -33,7 +33,7 @@ h1{
   color:#7d6c5b;
   text-align: center;
   font-size: 75px;
-  margin-bot: 500px;
+  margin: 30px;
 }
 
 .myButton {
@@ -48,7 +48,7 @@ h1{
 	font-family:'Marcellus SC';
 	font-size:25px;
 	padding:14px 27px;
-  margin-bottom: 25px;
+  margin-bottom: 40px;
 	text-decoration:none;
   text-align: center;
   -webkit-transition: all 1s ease-in-out;
