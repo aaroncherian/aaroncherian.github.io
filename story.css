@@ -36,9 +36,35 @@ h1{
   margin-bot: 500px;
 }
 
-.textbox{
-  background-color:#7d6c5b;
-  width: 75%;
-  height: 100%;
-  margin-left: 12.5%
+.myButton {
+  display: inline-block;
+  left: 50%;
+	background-color:#7d6c5b;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	cursor:pointer;
+	color:black;
+	font-family:'Marcellus SC';
+	font-size:25px;
+	padding:14px 27px;
+  margin-bottom: 25px;
+	text-decoration:none;
+  text-align: center;
+  -webkit-transition: all 1s ease-in-out;
+-moz-transition: all 1s ease-in-out;
+-ms-transition: all 1s ease-in-out;
+-o-transition: all 1s ease-in-out;
+transition: all 1s ease-in-out;
+}
+
+.myButton:hover {
+	background-color:white;
+}
+.myButton:active {
+
+	top:1px;
+}
+.wrap{
+  text-align: center;
 }
