@@ -1,0 +1,44 @@
+body{
+  background-color: black;
+   //*background-image: url(img/about.jpg);*//
+}
+
+ul{
+  font-family: 'Marcellus SC', sans-serif;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #7d6c5b;
+}
+li{
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-align: center;
+  text-decoration: none;
+}
+li a:hover:not(.active){
+  background-color: #111;
+}
+.active{
+  background-color: #4D4238;
+
+}
+h1{
+  font-family: 'Marcellus SC', sans-serif;
+  color:#7d6c5b;
+  text-align: center;
+  font-size: 75px;
+  margin-bot: 500px;
+}
+
+.textbox{
+  background-color:#7d6c5b;
+  width: 75%;
+  height: 100%;
+  margin-left: 12.5%
+}
