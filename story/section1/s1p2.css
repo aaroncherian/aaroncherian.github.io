@@ -1,5 +1,7 @@
 body{
   background-color: black;
+  overflow-y: scroll;
+  padding-bottom: 200px;
    //*background-image: url(img/about.jpg);*//
 }
 
@@ -40,15 +42,17 @@ h2{
   background-color:#7d6c5b;
   width: 75%;
   height: 110%;
-  margin-left: 12.5%
+  margin-left: 12.5%;
+  padding: 20px;
 }
 #page1{
   margin: 12px;
   padding: 5px;
 }
-.MsoNormal{
-  font-family: "Helvetica";
-  font-size: 20px;
+.story{
+  font-family: "Georgia";
+  font-size: 19px;
+  text-indent: .5in;
 }
 
 h3{
@@ -63,16 +67,24 @@ img{
   display: block;
 }
 
+.metadiv{
+  position:absolute;
+  /*display: inline-block;*/
+}
 .bot{
   width:700px;
-  position: fixed;
-
+  position: absolute;
 
 }
 
-#arrow{
+#forwardarrow{
   width:700px;
   margin-left:750px;
+}
+
+#backarrow{
+  width: 700px;
+  margin-left: 530px;
 }
 #page{
 width: 700px;

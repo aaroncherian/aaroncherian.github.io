@@ -40,17 +40,15 @@ h2{
   background-color:#7d6c5b;
   width: 75%;
   height: 110%;
-  margin-left: 12.5%;
-  padding: 10px;
+  margin-left: 12.5%
 }
 #page1{
   margin: 12px;
   padding: 5px;
 }
-.story{
-  font-family: "Georgia";
+.MsoNormal{
+  font-family: "Helvetica";
   font-size: 20px;
-  text-indent: .5in;
 }
 
 h3{
@@ -67,14 +65,19 @@ img{
 
 .bot{
   width:700px;
-  position: absolute;
+  position: fixed;
 
 
 }
 
-#arrow{
+#forwardarrow{
   width:700px;
   margin-left:750px;
+}
+
+#backarrow{
+  width: 700px;
+  margin-left: 530px;
 }
 #page{
 width: 700px;
