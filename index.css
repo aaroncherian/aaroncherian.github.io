@@ -18,6 +18,7 @@ h1 {
   display: inline-block;
   left: 50%;
 	background-color:#7d6c5b;
+  opacity: 0.8;
 	-moz-border-radius:5px;
 	-webkit-border-radius:5px;
 	border-radius:5px;
