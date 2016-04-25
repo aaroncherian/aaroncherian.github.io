@@ -35,10 +35,20 @@ h1{
   font-size: 75px;
   margin-bot: 500px;
 }
+#presentation{
+  color:white;
+  text-decoration:none;
+}
+.sectionnum{
+  font-family: 'Marcellus SC', sans-serif;
+  color:white;
+  text-align: center;
+  font-size: 25px;
 
+}
 .textbox{
   background-color:#7d6c5b;
-  width: 75%;
+  width: 80%;
   height: 100%;
   margin-left: 12.5%
 }
