@@ -11,7 +11,7 @@ h1 {
   font-family: 'Marcellus SC', sans-serif;
   color: white;
   text-align: center;
-  font-size: 150px;
+  font-size: 1px;
   margin-bottom: 0px;
 }
 .myButton {
@@ -41,13 +41,14 @@ transition: all 1s ease-in-out;*//
 }
 .myButton:active {
 
-	top:1px;
+	top:0pz;
 }
 .wrap{
   text-align: center;
-
 }
-
+.total{
+  margin-top:21%;
+}
 //*
 #about {
   	position:relative;
