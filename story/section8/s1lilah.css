@@ -1,0 +1,101 @@
+
+
+
+html {
+  background: url(lilah.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow-y: scroll;
+  background-color: black;
+}
+ul{
+  font-family: 'Marcellus SC', sans-serif;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #7d6c5b;
+}
+li{
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  padding: 14px 16px;
+  text-align: center;
+  text-decoration: none;
+}
+li a:hover:not(.active){
+  background-color: #111;
+}
+.active{
+  background-color: #4D4238;
+
+}
+h2{
+  font-family: 'Marcellus SC', sans-serif;
+  color:#7d6c5b;
+  text-align: center;
+  font-size: 50px;
+  margin-bot: 500px;
+}
+
+.textbox{
+  background-color:#7d6c5b;
+  width: 55%;
+  height: 110%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+#page1{
+  margin: 12px;
+  padding: 5px;
+}
+.story{
+  font-family: "Georgia";
+  font-size: 19px;
+  text-indent: .5in;
+}
+
+h3{
+  font-family: 'Marcellus SC';
+  color: #7d6c5b;
+  text-align: center;
+  font-size: 23px;
+}
+
+img{
+  height: 85px;
+  display: block;
+}
+
+.bot{
+  width:700px;
+  position: absolute;;
+
+
+}
+
+#arrow{
+  width:700px;
+  margin-left:750px;
+}
+
+#forwardarrow{
+  width:700px;
+  margin-left:750px;
+}
+
+#backarrow{
+  width: 700px;
+  margin-left: 530px;
+}
+#page{
+width: 700px;
+margin-left: 330px;
+margin-right: auto;
+}

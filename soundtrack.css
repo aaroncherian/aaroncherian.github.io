@@ -36,9 +36,19 @@ h1{
   margin-bot: 500px;
 }
 
+h2{
+  font-family: 'Marcellus SC', sans-serif;
+  color:black;
+  font-size: 20px;
+padding:0;
+text-align: center;
+}
+
+
+
 .textbox{
   background-color:#7d6c5b;
-  width: 75%;
+  width: 50%;
   height: 100%;
-  margin-left: 12.5%
+  margin-left:25%
 }
