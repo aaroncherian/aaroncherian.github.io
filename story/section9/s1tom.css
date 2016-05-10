@@ -76,7 +76,7 @@ img{
 
 .bot{
   width:700px;
-  position: absolute;;
+  position: absolute;
 
 
 }
@@ -97,6 +97,5 @@ img{
 }
 #page{
 width: 700px;
-margin-left: auto;
-margin-right: auto;
+margin-left: 330px;
 }
